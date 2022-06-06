@@ -1,0 +1,1 @@
+<__main__.Product object at 0x0000014409507AC0>
